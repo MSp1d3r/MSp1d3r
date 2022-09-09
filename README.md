@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MSp1d3r
 - 👀 I’m interested in exchanging knowledge.
-- 🌱 I’m currently learning python and other linguages of developed.
+- 🌱 I’m currently learning JavaScript, TypeScript, NodeJS, ReacJS and other linguages of developed.
 - 💞️ I’m looking to collaborate on with community.
 - 📫 How to reach me: email: crknet@hotmail.com
 
