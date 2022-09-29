@@ -34,10 +34,7 @@ You can click the Preview link to take a look at your changes.
   <a href = "mailto:crknet@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mspider/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/LucasSiqueiraSurreco/LucasSiqueiraSurreco/blob/output/github-contribution-grid-snake.svg)
-  
+
    ![Snake animation](https://github.com/MSp1d3r/MSp1d3r/blob/34ed7d753afd9d1bd0ae394b2dae6152254803ac/github-contribution-grid-snake.svg)
-   
-   <a href="https://www.linkedin.com/in/lucassiqueirasurreco" align="right" target="_blank">By Lucas Siqueira</a> 
  
 </div>
