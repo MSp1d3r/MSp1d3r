@@ -23,5 +23,4 @@ You can click the Preview link to take a look at your changes.
 
   <img align="center" alt="MSpider-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img align="center" alt="MSpider-EX" height="30" width="50" src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png">
 </div>
