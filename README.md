@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="MSpider-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 </div>
+<br>
 <div align="left"> 
   <img align="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSp1d3r&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
