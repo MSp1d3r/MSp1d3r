@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.instagram.com/mspidertrader/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:crknet@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mspider/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561999919688)
  
 
    ![Git Snake dark](https://github.com/MSp1d3r/MSp1d3r/blob/34ed7d753afd9d1bd0ae394b2dae6152254803ac/github-contribution-grid-snake.svg)
